@@ -1,8 +1,53 @@
-# Getting Started with Create React App
+## Internshala project for Frontend 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1st Page
+![Screenshot 2024-04-10 164501](https://github.com/Nasir-buddy/internshala_project/assets/83268060/9d967653-baf6-406e-8040-89daa941a2c4)
+
+ ## 1st Page Responsive 
+![Screenshot 2024-04-10 164606](https://github.com/Nasir-buddy/internshala_project/assets/83268060/e6b2690e-a4b1-4bab-a396-ee258993d9ee)
+
+## 2nd Page 
+![Screenshot 2024-04-10 164927](https://github.com/Nasir-buddy/internshala_project/assets/83268060/994e6081-ab9f-426b-964f-961b366be3c2)
+
+## 2nd Page Responsive
+![Screenshot 2024-04-10 164936](https://github.com/Nasir-buddy/internshala_project/assets/83268060/ff1954b1-93e2-4e2e-b567-feac107bbb12)
+
+## 3rd Page
+![Screenshot 2024-04-10 165013](https://github.com/Nasir-buddy/internshala_project/assets/83268060/3c836240-95e7-4d1b-804f-486f9f852a22)
+
+## 3rd Page Responsive
+![Screenshot 2024-04-10 165026](https://github.com/Nasir-buddy/internshala_project/assets/83268060/94e5a6c6-4542-44b1-aaaf-44205e822001)
+
+## 4th Page 
+![Screenshot 2024-04-10 165100](https://github.com/Nasir-buddy/internshala_project/assets/83268060/3a42e2f4-f27c-4932-bf78-c40aa50d0bb9)
+
+## 4th Page Responsive
+![Screenshot 2024-04-10 165108](https://github.com/Nasir-buddy/internshala_project/assets/83268060/8a96497b-043a-4653-a320-0496ca85c580)
+
+## 5th Page 
+![Screenshot 2024-04-10 165142](https://github.com/Nasir-buddy/internshala_project/assets/83268060/1eaccc32-29f9-4d2a-be3b-f282e12532e6)
+
+## 5th Page Responsive 
+![Screenshot 2024-04-10 165153](https://github.com/Nasir-buddy/internshala_project/assets/83268060/41e19f96-5cdd-4425-90f5-06481adc17ba)
+
+## 6th Page 
+It will automatically load the last page after 2 second of timeout.
+
+![Screenshot 2024-04-10 165229](https://github.com/Nasir-buddy/internshala_project/assets/83268060/06f50b4d-f3f7-47ab-a1c9-9e91cf885c94)
+
+## 6th Page Responsive 
+![Screenshot 2024-04-10 165249](https://github.com/Nasir-buddy/internshala_project/assets/83268060/5fefd3c4-2a65-4596-b36e-0ffcce255b5b)
+
+## 7th Page
+![Screenshot 2024-04-10 165315](https://github.com/Nasir-buddy/internshala_project/assets/83268060/16857f62-7128-4de1-859c-80acda40b1dc)
+
+
+## 7th Page Responsive
+![Screenshot 2024-04-10 165324](https://github.com/Nasir-buddy/internshala_project/assets/83268060/d5d3de39-3fd6-490b-99f9-3acb2ff961af)
+
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
@@ -39,32 +84,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## NOTE
+## This repo is created after creation of project. 
